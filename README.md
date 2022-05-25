@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=inankovvv&label=Profile%20views&color=ce9927&style=flat" alt="inankovvv" />
+
 - 👋 Hi, I’m @inankovvv and I am a Medical Doctor
 - 👀 I’m interested mainly in Medicine and as of recently in Programming - which has sparked my interest
 - 🌱 I’m currently learning Python
